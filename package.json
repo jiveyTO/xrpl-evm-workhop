@@ -1,0 +1,18 @@
+{
+  "name": "sep-12-xrpl-evm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "xrpl": "^2.12.0-beta.0",
+    "@peersyst/xrp-evm-contracts": "1.0.1",
+    "@ethersproject/providers": "^5.7.2",
+    "@ethersproject/wallet": "^5.7.0"    
+  }  
+}
